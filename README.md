@@ -1,4 +1,4 @@
-# API-data-to-Database-using-Postgres
+# API-data-to-Database
 This project aims to build an ETL pipeline using python to fetch a data from opensource API to database. I am using Python, SQL and MariaDB to build a data pipeline.
 
 ## Project Roles
